@@ -31,7 +31,7 @@ A comprehensive Python toolkit that automatically collects tutorials from the Co
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/copernicus-marine-toolkit.git
+git clone https://github.com/LimJih00n/copernicus-marine-toolkit.git
 cd copernicus-marine-toolkit
 pip install -r requirements.txt
 ```
@@ -184,9 +184,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- 🐛 Bug reports: [Issues](https://github.com/your-username/copernicus-marine-toolkit/issues)
-- 💡 Feature requests: [Discussions](https://github.com/your-username/copernicus-marine-toolkit/discussions)
-- 📧 Email: your.email@example.com
+- 🐛 Bug reports: [Issues](https://github.com/LimJih00n/copernicus-marine-toolkit/issues)
+- 💡 Feature requests: [Discussions](https://github.com/LimJih00n/copernicus-marine-toolkit/discussions)
 
 ## 🔬 Technical Details
 
@@ -212,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⚡ Get Started Now!**
 ```bash
-git clone https://github.com/your-username/copernicus-marine-toolkit.git
+git clone https://github.com/LimJih00n/copernicus-marine-toolkit.git
 cd copernicus-marine-toolkit
 python scrape_copernicus.py
 ```
