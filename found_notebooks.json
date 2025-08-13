@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BGC_data_mode_census.ipynb",
+    "url": "https://raw.githubusercontent.com/euroargodev/argopy/master/docs/examples/BGC_data_mode_census.ipynb",
+    "repo": "euroargodev/argopy",
+    "path": "docs/examples/BGC_data_mode_census.ipynb",
+    "size": 57013
+  },
+  {
+    "name": "BGC_one_float_data.ipynb",
+    "url": "https://raw.githubusercontent.com/euroargodev/argopy/master/docs/examples/BGC_one_float_data.ipynb",
+    "repo": "euroargodev/argopy",
+    "path": "docs/examples/BGC_one_float_data.ipynb",
+    "size": 18366067
+  },
+  {
+    "name": "BGC_region_float_data.ipynb",
+    "url": "https://raw.githubusercontent.com/euroargodev/argopy/master/docs/examples/BGC_region_float_data.ipynb",
+    "repo": "euroargodev/argopy",
+    "path": "docs/examples/BGC_region_float_data.ipynb",
+    "size": 6605056
+  },
+  {
+    "name": "BGC_scatter_map_data_mode.ipynb",
+    "url": "https://raw.githubusercontent.com/euroargodev/argopy/master/docs/examples/BGC_scatter_map_data_mode.ipynb",
+    "repo": "euroargodev/argopy",
+    "path": "docs/examples/BGC_scatter_map_data_mode.ipynb",
+    "size": 261842
+  }
+]

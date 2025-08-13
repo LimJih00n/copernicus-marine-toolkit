@@ -1,0 +1,41 @@
+{
+  "https://marine.copernicus.eu/services/user-learning-services/tutorials": {
+    "success": true,
+    "title": "E-learning materials | CMEMS",
+    "tutorial_links": 8,
+    "downloadable_files": 0,
+    "sample_links": [
+      {
+        "href": "/services/user-learning-services/tutorials",
+        "text": "E-learning material"
+      },
+      {
+        "href": "/services/user-learning-services",
+        "text": "User Learning Services"
+      },
+      {
+        "href": "/services/user-learning-services/jupyter-environment",
+        "text": "Jupyter environment"
+      }
+    ]
+  },
+  "https://marine.copernicus.eu/": {
+    "success": true,
+    "title": "Home | CMEMS",
+    "tutorial_links": 1,
+    "downloadable_files": 0,
+    "sample_links": [
+      {
+        "href": "/services/user-learning-services",
+        "text": "User learning servicesFind all the information you"
+      }
+    ]
+  },
+  "https://data.marine.copernicus.eu/products": {
+    "success": true,
+    "title": "Copernicus Marine Data Store | Copernicus Marine Service",
+    "tutorial_links": 0,
+    "downloadable_files": 1,
+    "sample_links": []
+  }
+}

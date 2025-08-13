@@ -1,0 +1,35 @@
+{
+  "total": 3,
+  "by_type": {
+    "dataset": 3
+  },
+  "by_source": {
+    "zenodo": 3
+  },
+  "resources": [
+    {
+      "url": "https://zenodo.org/api/records/10018105/files/rms_sla.zip/content",
+      "filename": "rms_sla.zip",
+      "type": "dataset",
+      "source": "zenodo",
+      "size": 32852,
+      "description": "MedFS EAS5 Validation Dataset"
+    },
+    {
+      "url": "https://zenodo.org/api/records/13626289/files/tracmass_3d_output.zip/content",
+      "filename": "tracmass_3d_output.zip",
+      "type": "dataset",
+      "source": "zenodo",
+      "size": 6276401967,
+      "description": "TRACMASS trajectory data traced from the Tsushima Strait"
+    },
+    {
+      "url": "https://zenodo.org/api/records/13626289/files/CMEMS_3dre.zip/content",
+      "filename": "CMEMS_3dre.zip",
+      "type": "dataset",
+      "source": "zenodo",
+      "size": 258822683,
+      "description": "TRACMASS trajectory data traced from the Tsushima Strait"
+    }
+  ]
+}
