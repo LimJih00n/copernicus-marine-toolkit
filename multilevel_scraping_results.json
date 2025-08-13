@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://atlas.mercator-ocean.fr/download",
+    "type": "mercator",
+    "source_page": "https://atlas.mercator-ocean.fr/s/WCM44bp3bFc63PB"
+  },
+  {
+    "url": "https://atlas.mercator-ocean.fr/s/WCM44bp3bFc63PB/download",
+    "type": "mercator",
+    "source_page": "https://marine.copernicus.eu/services/user-learning-services/arctic-ocean-training-2022-thermohaline-circulation"
+  },
+  {
+    "url": "https://atlas.mercator-ocean.fr/s/Cf8imxcnmYaAZYL/download",
+    "type": "mercator",
+    "source_page": "https://marine.copernicus.eu/services/user-learning-services/marinedata4africa-training-2023-angola-benguela-system-intermediate"
+  },
+  {
+    "url": "https://atlas.mercator-ocean.fr/s/ZqtwdLNzoQH55JE/download",
+    "type": "mercator",
+    "source_page": "https://marine.copernicus.eu/services/user-learning-services/arctic-ocean-training-2022-discover-copernicus-marine-service"
+  },
+  {
+    "url": "https://atlas.mercator-ocean.fr/s/oM2SaXder35GbwW/download",
+    "type": "mercator",
+    "source_page": "https://marine.copernicus.eu/services/user-learning-services/baltic-sea-training-2022-eutrophication"
+  }
+]

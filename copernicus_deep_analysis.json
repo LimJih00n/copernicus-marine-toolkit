@@ -1,0 +1,55 @@
+{
+  "main_page": "https://marine.copernicus.eu/services/user-learning-services/tutorials",
+  "total_links": 46,
+  "tutorial_links": 24,
+  "download_links": 2,
+  "external_links": 1,
+  "samples": {
+    "tutorials": [
+      {
+        "url": "/services/user-learning-services",
+        "text": "User Learning Services",
+        "type": "tutorial"
+      },
+      {
+        "url": "/services/user-learning-services",
+        "text": "Training/Workshop",
+        "type": "tutorial"
+      },
+      {
+        "url": "/services/user-learning-services/tutorials",
+        "text": "E-learning material",
+        "type": "tutorial"
+      },
+      {
+        "url": "/services/user-learning-services/jupyter-environment",
+        "text": "Jupyter environment",
+        "type": "tutorial"
+      },
+      {
+        "url": "/services/user-learning-services/arctic-ocean-training-2022-discover-copernicus-marine-service",
+        "text": "Beginner levelOcean InformationArctic Ocean Traini",
+        "type": "tutorial"
+      }
+    ],
+    "downloads": [
+      {
+        "url": "/services/user-learning-services/downloading-products-africa-continent",
+        "text": "Intermediate levelOcean InformationDownloading the",
+        "type": "download"
+      },
+      {
+        "url": "/services/user-learning-services/downloading-products-africa-continent-updated-2025",
+        "text": "Intermediate levelOcean InformationDownloading the",
+        "type": "download"
+      }
+    ],
+    "external": [
+      {
+        "url": "https://www.copernicus.eu/en/copernicus-services/emergency",
+        "text": "Emergency",
+        "type": "external"
+      }
+    ]
+  }
+}
